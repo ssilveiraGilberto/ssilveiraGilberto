@@ -45,7 +45,7 @@ I'm a backend developer with over 10 years of experience in the IT industry, now
 
 ## 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto%20Silveira-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/servicenow-developer-gilberto-silveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto%20Silveira-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gilberto-s-silveira/)
 
 📬 Open to remote opportunities as a **Junior ServiceNow Developer** or **Technical Consultant**
 
